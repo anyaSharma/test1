@@ -1,0 +1,7 @@
+package controllers
+
+object test2 {
+def myFunction {
+println("hello world")
+  }
+}
